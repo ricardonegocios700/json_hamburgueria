@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "email": "teste@teste.com",
+      "password": "$2a$10$vrqELJEAT/q4K0CyCp8plekbNq8Zsa1VaLEWSFCU7Aju6BwJzCV2u",
+      "name": "Ricardo",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "Hamburger",
+      "price": "10.00",
+      "description": "Hamburger simples",
+      "image": "",
+      "userId": "1",
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "name": "Hamburger",
+      "price": "10.00",
+      "description": "Hamburger simples",
+      "image": "",
+      "userId": "1",
+      "id": 2
+    },
+    {
+      "name": "Hamburger X-Burger",
+      "price": "10.00",
+      "description": "Hamburger composto",
+      "image": "",
+      "userId": "1",
+      "id": 3
+    }
+  ]
+}

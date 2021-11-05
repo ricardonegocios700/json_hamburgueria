@@ -15,24 +15,23 @@
       "image": "",
       "userId": "1",
       "id": 1
-    }
-  ],
-  "cart": [
+    },
     {
-      "name": "Hamburger",
-      "price": "10.00",
-      "description": "Hamburger simples",
+      "name": "X - Hamburger",
+      "price": "13.00",
+      "description": "Hamburger com queijo",
       "image": "",
       "userId": "1",
       "id": 2
     },
     {
-      "name": "Hamburger X-Burger",
-      "price": "10.00",
-      "description": "Hamburger composto",
+      "name": "Mega-burger",
+      "price": "25.00",
+      "description": "Hamburger X-Tudo Plus",
       "image": "",
       "userId": "1",
       "id": 3
     }
-  ]
+  ],
+  "cart": []
 }

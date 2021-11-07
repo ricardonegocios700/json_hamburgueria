@@ -12,7 +12,7 @@
       "name": "Hamburger",
       "price": "10.00",
       "description": "Hamburger simples",
-      "image": "",
+      "image": "https://cdn-icons-png.flaticon.com/512/3075/3075977.png",
       "userId": "1",
       "id": 1
     },
@@ -20,7 +20,7 @@
       "name": "X - Hamburger",
       "price": "13.00",
       "description": "Hamburger com queijo",
-      "image": "",
+      "image": "https://as1.ftcdn.net/v2/jpg/00/49/43/90/500_F_49439032_ftpEqYyeS7mJSkm4xcYmyfp4MKSAs7hO.jpg",
       "userId": "1",
       "id": 2
     },
@@ -28,7 +28,7 @@
       "name": "Mega-burger",
       "price": "25.00",
       "description": "Hamburger X-Tudo Plus",
-      "image": "",
+      "image": "https://cdn-icons-png.flaticon.com/512/1046/1046787.png",
       "userId": "1",
       "id": 3
     }
